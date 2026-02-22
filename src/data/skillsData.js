@@ -1,0 +1,15 @@
+export const skills = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "React",
+  "Bootstrap",
+  "Java",
+  "Python",
+  "MySQL",
+  "Git",
+  "GitHub",
+  "Responsive Design",
+  "Canva",
+  "Figma UI/UX Design",
+];
