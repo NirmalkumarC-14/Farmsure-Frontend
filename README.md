@@ -1,16 +1,99 @@
-# React + Vite
+# 🌾 Farmsure - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Farmsure is a Contract Farming Platform that connects farmers and landowners directly to improve transparency, trust, and profitability in agricultural agreements.
 
-Currently, two official plugins are available:
+This repository contains the frontend of the Farmsure platform built using modern web technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- User Registration & Login
+- Farmer & Landowner Dashboard
+- Contract Listings
+- Document Upload Interface
+- Responsive UI Design
+- Clean and Modern Layout
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap / React Bootstrap
+- Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+
+src/
+components/
+pages/
+assets/
+
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+
+
+git clone https://github.com/NirmalkumarC-14/Farmsure-Frontend.git
+
+
+2. Navigate to project folder
+
+
+cd Farmsure-Frontend
+
+
+3. Install dependencies
+
+
+npm install
+
+
+4. Start development server
+
+
+npm start
+
+
+---
+
+## 🎯 Project Goal
+
+To build a digital ecosystem that enables:
+
+- Direct farmer-landowner collaboration
+- Secure contract management
+- Transparent communication
+- Reduced middlemen dependency
+
+---
+
+## 👨‍💻 Author
+
+Nirmalkumar C  
+B.Tech Computer Science & Business Systems  
+Aspiring Full Stack Developer  
+
+---
+
+## 📌 Future Enhancements
+
+- Backend Integration
+- Payment Gateway
+- AI-based Crop Recommendation
+- Real-time Notifications
+- Role-based Authentication
+
+---
+
+⭐ If you like this project, consider giving it a star!
