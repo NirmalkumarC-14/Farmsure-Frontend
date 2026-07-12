@@ -81,6 +81,7 @@ To build a digital ecosystem that enables:
 ## 👨‍💻 Author
 
 Nirmalkumar C  
+Akash Bala G R
 B.Tech Computer Science & Business Systems  
 Aspiring Full Stack Developer  
 
